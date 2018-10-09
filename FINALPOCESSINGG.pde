@@ -759,22 +759,25 @@ void keyPressed() {
 
 /** Multiline comment
  1) A car that I made using vertex, instructions on how to play the minigame,
- instructions on how to play the game, triangles in the minigame.
+ instructions on how to play the game, triangles in the minigame. I made two
+ buildings as well as doors to go with them using rectangles. The doors both
+ had ellipsed for doorhandles. The buildings each
+ had a shaded wall that was made using vertex. I don't know if this counts but
+ I made many lines on the side walk as well as thick yellow lines for the road.
  
  2) Music plays when you click the radio.
  
  3)Eyes that follow the xPosition of the mouse, triangles that fall at different 
  speeds, a car that constantly is driving across the screen and changes colour,
- a ball that moves when you press the left and right arrow keys.
+ a ball that moves when you press the left and right arrow keys. I'm not sure if
+ this counts but the scenery changes everytime you click on a door. 
  
- 4)When you press any key, your guy becomes angry
+ 4)When you press any key, your guy becomes angry. There is also the minigame where
+ the left and right arrow keys move the ball back and fourth accross the screen.
  
- 5)When you click the on any door, you can leave or exit buildings
- 
- HEY SORRY THERE IS SO MUCH STUFF IN MY GAME THINGY THAT I DIDN'T HAVE TIME TO INCLUDE
- IT ALL IN THIS LINE OF COMMENTS. I WILL ADD ALL OF IT BEFORE THE END OF THE WEEKEND!
- (MOST LIKELY AS SOON AS I GET HOME IF I DON'T HAVE PLANS)
- 
+ 5)When you click on any door, you can leave or exit buildings. When you click
+ on the text that says "CLICK HERE FOR INSTRUCTIONS" on the street view a row of 
+ instructions appear telling you how to play.
  
  
- */
+ 
