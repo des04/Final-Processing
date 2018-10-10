@@ -778,6 +778,7 @@ void keyPressed() {
  5)When you click on any door, you can leave or exit buildings. When you click
  on the text that says "CLICK HERE FOR INSTRUCTIONS" on the street view a row of 
  instructions appear telling you how to play.
+ */
  
  
  
